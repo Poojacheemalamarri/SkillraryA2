@@ -1,6 +1,7 @@
 package testScripts;
 
 import java.util.Map;
+//This test verifies if user able to create addNewcategory.
 
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -8,6 +9,7 @@ import org.testng.asserts.SoftAssert;
 import genericUtilities.BaseClass;
 import genericUtilities.IConstantPath;
 import pomPages.HomePage;
+//this is anjali
 
 public class AddCategoryTest extends BaseClass {
 	@Test
